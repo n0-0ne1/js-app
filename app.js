@@ -9,3 +9,7 @@ function sample(){
 
 sample()
 console.log(name)
+
+console.warn("!!")
+console.info("123")
+console.error("asd")
