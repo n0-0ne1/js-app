@@ -13,3 +13,8 @@ console.log(name)
 console.warn("!!")
 console.info("123")
 console.error("asd")
+
+// == only checks the valye
+// === also checks the type
+console.log('1'==1) //true
+console.log('1'===1) //false
