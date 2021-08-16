@@ -18,3 +18,8 @@ console.error("asd")
 // === also checks the type
 console.log('1'==1) //true
 console.log('1'===1) //false
+
+
+const a=10
+a=8
+console.log(a)

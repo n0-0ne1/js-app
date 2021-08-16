@@ -21,4 +21,3 @@ Student.prototype.getage=function(){
 
 var stud=new Student(22)
 console.log(stud)
-console.log(stud.getname())
